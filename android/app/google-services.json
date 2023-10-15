@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307417703789",
+    "project_id": "flashapp-97c46",
+    "storage_bucket": "flashapp-97c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307417703789:android:c96db2f44abe532918a664",
+        "android_client_info": {
+          "package_name": "com.daniel.flash_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ_vGCdVnBLvX6ZnMW5QObTy9T72YW2Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
